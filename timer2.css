@@ -1,0 +1,13 @@
+#but1 {
+   background-color: yellowgreen;
+   padding: 3%;
+   width: 60px;
+   margin: 2%;
+   align-items: center;
+}
+#but2 {
+    background-color: red;
+   padding: 3%;
+   margin: 2%;
+   align-items: center;
+}
